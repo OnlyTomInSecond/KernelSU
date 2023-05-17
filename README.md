@@ -1,5 +1,7 @@
 **English** | [中文](README_CN.md)
 
+## For version >= 4.9.212, there is no need to do [this](https://github.com/tiann/KernelSU/commit/50364349b9f9ee4d39efe3c333bfa27c8978e860) change. If your kenel's kprobe works, then [this commit](https://github.com/tiann/KernelSU/commit/6c9be3b2f090108200b6f1a98a01591eed9429f5) **may** not needed.
+
 # KernelSU
 
 A Kernel based root solution for Android devices.
